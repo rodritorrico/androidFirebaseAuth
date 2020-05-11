@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_form_title">Inicio de Sesión</string>
+    <string name="login_form_username_hint">Ingrese su nombre de usuario</string>
+    <string name="login_form_password_hint">Ingrese su contraseña</string>
+    <string name="login_form_btn_iniciar_sesion">Iniciar sesión</string>
+    <string name="login_form_username_empty">El campo email no puede estar vacío</string>
+    <string name="login_form_password_empty">El campo constraseña no puede estar vacío</string>
+    <string name="login_form_success">Inicio de sesión exitoso</string>
+    <string name="login_form_error">Usuario y password inválidos</string>
+    <string name="create_account_text_view">Crear Cuenta</string>
+    <string name="login_activity_name">Login</string>
+    <string name="title_activity_create_account">CreateAccount</string>
+</resources>
